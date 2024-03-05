@@ -13,7 +13,7 @@
         <label>MacD Deliveries</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_647685_macd_food_macd_deliveries</name>
-        <number_ref display_value="MAC">dd4b663407b882101f63f19d7c1ed0b1</number_ref>
+        <number_ref display_value="">dd4b663407b882101f63f19d7c1ed0b1</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
