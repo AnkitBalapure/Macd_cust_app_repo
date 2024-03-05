@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_647685_macd_food_macd_deliveries" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_647685_macd_food_macd_deliveries</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>abraham.lincoln</sys_created_by>
+            <sys_created_on>2024-03-05 07:45:01</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="MacD Food" source="x_647685_macd_food">07e7223007b882101f63f19d7c1ed01a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MacD Food">07e7223007b882101f63f19d7c1ed01a</sys_scope>
+            <sys_update_name>sys_choice_x_647685_macd_food_macd_deliveries_category</sys_update_name>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2024-03-05 07:45:01</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deliverable</label>
+            <language>en</language>
+            <name>x_647685_macd_food_macd_deliveries</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>abraham.lincoln</sys_created_by>
+            <sys_created_on>2024-03-05 07:45:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2024-03-05 07:45:01</sys_updated_on>
+            <value>deliverable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Deliverable</label>
+            <language>en</language>
+            <name>x_647685_macd_food_macd_deliveries</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>abraham.lincoln</sys_created_by>
+            <sys_created_on>2024-03-05 07:45:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2024-03-05 07:45:01</sys_updated_on>
+            <value>non_deliverable</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>abraham.lincoln</sys_created_by>
+        <sys_created_on>2024-03-05 07:38:37</sys_created_on>
+        <sys_id>364ba63407b882101f63f19d7c1ed0bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_647685_macd_food_macd_deliveries.x_647685_macd_food.macd_app_admin</sys_name>
+        <sys_package display_value="MacD Food" source="x_647685_macd_food">07e7223007b882101f63f19d7c1ed01a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MacD Food">07e7223007b882101f63f19d7c1ed01a</sys_scope>
+        <sys_security_acl display_value="x_647685_macd_food_macd_deliveries">b64ba63407b882101f63f19d7c1ed0bb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_364ba63407b882101f63f19d7c1ed0bf</sys_update_name>
+        <sys_updated_by>abraham.lincoln</sys_updated_by>
+        <sys_updated_on>2024-03-05 07:38:37</sys_updated_on>
+        <sys_user_role display_value="x_647685_macd_food.macd_app_admin" name="x_647685_macd_food.macd_app_admin">87e7223007b882101f63f19d7c1ed02c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
